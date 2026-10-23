@@ -1,0 +1,102 @@
+[
+  {
+    "id": "PM-KISAN-001",
+    "scheme": "PM Kisan Samman Nidhi",
+    "english": "PM-KISAN is a Central Sector scheme to provide income support to all landholding farmer families in the country.",
+    "hindi": "पीएम-किसान एक केंद्रीय क्षेत्र की योजना है जो देश में सभी भूमिधारक किसान परिवारों को आय सहायता प्रदान करती है।",
+    "bhojpuri": "पीएम-किसान एगो सरकारी योजना बा जवना में किसान परिवारन के आय सहायता मिलेला।",
+    "benefits": {
+      "english": "₹6000 per year in three equal installments of ₹2000 each.",
+      "hindi": "प्रति वर्ष ₹6000, तीन समान किश्तों में ₹2000 प्रत्येक।",
+      "bhojpuri": "साल में ₹6000, तीन किश्त में ₹2000-₹2000 मिलेला।"
+    },
+    "eligibility": {
+      "english": "All land-holding farmer families with cultivable land.",
+      "hindi": "सभी भूमिधारक किसान परिवार जिनके पास कृषि योग्य भूमि है।",
+      "bhojpuri": "ऊ किसान परिवार जिनके पास खेती लायक जमीन बा।"
+    },
+    "age_limit": "18+",
+    "contribution_type": "Government funded",
+    "pension_range": "₹6000/year"
+  },
+  {
+    "id": "PMJJBY-002",
+    "scheme": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "english": "A government-backed life insurance scheme offering renewable life insurance cover.",
+    "hindi": "सरकार समर्थित जीवन बीमा योजना जो नवीकरणीय जीवन बीमा कवर प्रदान करती है।",
+    "bhojpuri": "सरकारी जीवन बीमा योजना जवना में हर साल नवीकरण होला।",
+    "benefits": {
+      "english": "Life insurance cover of ₹2 lakh on death due to any reason.",
+      "hindi": "किसी भी कारण से मृत्यु होने पर ₹2 लाख का जीवन बीमा कवर।",
+      "bhojpuri": "कवनो कारण से मौत होला त ₹2 लाख मिलेला।"
+    },
+    "eligibility": {
+      "english": "Age 18 to 50 years with a bank account.",
+      "hindi": "18 से 50 वर्ष की आयु, बैंक खाता होना अनिवार्य।",
+      "bhojpuri": "18 से 50 साल के उमर, बैंक खाता जरूरी बा।"
+    },
+    "age_limit": "18-50",
+    "contribution_type": "₹436/year premium",
+    "pension_range": "₹2 lakh cover"
+  },
+  {
+    "id": "APY-003",
+    "scheme": "Atal Pension Yojana",
+    "english": "A pension scheme focused on the unorganised sector workers to provide financial security in old age.",
+    "hindi": "असंगठित क्षेत्र के श्रमिकों के लिए बुढ़ापे में वित्तीय सुरक्षा प्रदान करने वाली पेंशन योजना।",
+    "bhojpuri": "असंगठित क्षेत्र के मजदूरन खातिर बुढ़ापे में पेंशन देवे वाली योजना।",
+    "benefits": {
+      "english": "Guaranteed monthly pension of ₹1000 to ₹5000 after 60 years of age.",
+      "hindi": "60 वर्ष की आयु के बाद ₹1000 से ₹5000 मासिक पेंशन।",
+      "bhojpuri": "60 साल के बाद ₹1000 से ₹5000 हर महीना पेंशन मिलेला।"
+    },
+    "eligibility": {
+      "english": "Indian citizens between 18-40 years with a savings bank account.",
+      "hindi": "18 से 40 वर्ष के भारतीय नागरिक जिनका बचत बैंक खाता हो।",
+      "bhojpuri": "18 से 40 साल के भारतीय नागरिक जिनके बैंक बचत खाता बा।"
+    },
+    "age_limit": "18-40",
+    "contribution_type": "Monthly contribution",
+    "pension_range": "₹1000-₹5000/month"
+  },
+  {
+    "id": "PMAY-004",
+    "scheme": "Pradhan Mantri Awas Yojana",
+    "english": "Housing scheme to provide affordable housing to urban and rural poor.",
+    "hindi": "शहरी और ग्रामीण गरीबों को किफायती आवास उपलब्ध कराने की योजना।",
+    "bhojpuri": "गरीब लोगन के सस्ता घर देवे वाली सरकारी योजना।",
+    "benefits": {
+      "english": "Subsidy on home loan interest up to ₹2.67 lakh.",
+      "hindi": "गृह ऋण ब्याज पर ₹2.67 लाख तक की सब्सिडी।",
+      "bhojpuri": "घर कर्जा पर ₹2.67 लाख तक के छूट मिलेला।"
+    },
+    "eligibility": {
+      "english": "Economically Weaker Sections (EWS) and Low Income Groups (LIG).",
+      "hindi": "आर्थिक रूप से कमजोर वर्ग (EWS) और निम्न आय वर्ग (LIG)।",
+      "bhojpuri": "गरीब परिवार जिनके पास पक्का घर नईखे।"
+    },
+    "age_limit": "18+",
+    "contribution_type": "Subsidy based",
+    "pension_range": "Up to ₹2.67 lakh subsidy"
+  },
+  {
+    "id": "PMSBY-005",
+    "scheme": "Pradhan Mantri Suraksha Bima Yojana",
+    "english": "An accident insurance scheme offering accidental death and disability cover.",
+    "hindi": "दुर्घटना बीमा योजना जो आकस्मिक मृत्यु और विकलांगता कवर प्रदान करती है।",
+    "bhojpuri": "दुर्घटना बीमा योजना जवना में मौत या अपंग होला त पैसा मिलेला।",
+    "benefits": {
+      "english": "₹2 lakh for accidental death, ₹1 lakh for partial disability.",
+      "hindi": "आकस्मिक मृत्यु पर ₹2 लाख, आंशिक विकलांगता पर ₹1 लाख।",
+      "bhojpuri": "दुर्घटना में मौत पर ₹2 लाख, अपंगता पर ₹1 लाख मिलेला।"
+    },
+    "eligibility": {
+      "english": "Age 18 to 70 years with a bank account.",
+      "hindi": "18 से 70 वर्ष के व्यक्ति जिनका बैंक खाता हो।",
+      "bhojpuri": "18 से 70 साल के लोग जिनके बैंक खाता बा।"
+    },
+    "age_limit": "18-70",
+    "contribution_type": "₹20/year premium",
+    "pension_range": "₹2 lakh cover"
+  }
+]
